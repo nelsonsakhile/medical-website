@@ -9,8 +9,10 @@ const About = () => {
                     About Us
                 </h1>
                 <p className=" text-justify lg:text-start">
-                    Royal Health MC is a medical practice located at 1 Garden
-                    Road, Johannesburg, 2194.
+                    Royal Health MC is a medical practice located at Shop No 2A
+Mazithulele Plaza 
+Siyandhani CBD-002
+Giyani 0826
                 </p>
                 <p className="text-justify lg:text-start">
                     It was established on 28 October 2024 by three medical

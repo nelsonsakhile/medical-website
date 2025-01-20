@@ -88,7 +88,10 @@ const Footer = () => {
                     </h1>
                     <nav className=" flex flex-col gap-2">
                         <Link to="/" spy={true} smooth={true} duration={500}>
-                            1 Garden Road, Johannesburg, 2194{" "}
+                            Shop No 2A
+Mazithulele Plaza 
+Siyandhani CBD-002
+Giyani 0826
                         </Link>
                         <Link to="/" spy={true} smooth={true} duration={500}>
                             royalhealthmail@gmail.com{" "}
