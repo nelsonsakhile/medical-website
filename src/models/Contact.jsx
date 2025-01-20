@@ -45,6 +45,15 @@ const Contact = ({ closeForm }) => {
               placeholder="Phone No."
             />
           </div>
+          <div className=" flex flex-col">
+            <input
+              className="py-3 px-2 bg-[#d5f2ec] rounded-lg"
+              type="date"
+              name="date"
+              id="userNumber"
+              placeholder="Date"
+            />
+          </div>
           <div className=" flex gap-5">
             <Button title="Book Appointment" />
             <button
