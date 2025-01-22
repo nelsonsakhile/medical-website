@@ -8,42 +8,41 @@ import Button from "../Layouts/Button";
 import ServicesCard from "../Layouts/ServicesCard";
 
 const Services = () => {
-    
     const offeredServices = [
         {
             title: "doctor consultation",
             icon: (
                 <RiMicroscopeLine size={35} className=" text-backgroundColor" />
             ),
-            disc: "Doctor cheks you up"
+            disc: ""
         },
         {
-            title: "Doc Check up",
+            title: "Medical Certificates",
             icon: (
                 <RiMicroscopeLine size={35} className=" text-backgroundColor" />
             ),
-            disc: "Doctor cheks you up"
+            disc: ""
         },
         {
-            title: "Doc Check up",
+            title: "Treatment of medical conditions",
             icon: (
                 <RiMicroscopeLine size={35} className=" text-backgroundColor" />
             ),
-            disc: "Doctor cheks you up"
+            disc: ""
         },
         {
-            title: "Doc Check up",
+            title: "Pregnancy and Antenatal booking",
             icon: (
                 <RiMicroscopeLine size={35} className=" text-backgroundColor" />
             ),
-            disc: "Doctor cheks you up"
+            disc: ""
         },
         {
-            title: "Doc Check up",
+            title: "Medical Tests",
             icon: (
                 <RiMicroscopeLine size={35} className=" text-backgroundColor" />
             ),
-            disc: "Doctor cheks you up"
+            disc: "blood tests, blood sugar, cholesterol, etc"
         }
     ];
 
