@@ -10,7 +10,7 @@ const Contact = ({ closeForm }) => {
         setInputs(values => ({ ...values, [name]: value }));
     };
     const handleSubmit = async () => {
-        let res = await axios.post("http://127.0.0.1:5000/api/data", inputs);
+        let res = await axios.post("https://email-9k1s.onrender.com/api/data", inputs);
     };
     return (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
